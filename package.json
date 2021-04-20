@@ -4,7 +4,7 @@
   "description": "Minimum example how to query the Finoa API.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --timeout 5000 'tests/address/address-currency.spec.js' --reporter mochawesome || true",
+    "test": "mocha --timeout 5000 'tests/address/*.spec.js' --reporter mochawesome || true",
     "open:report": "open mochawesome-report/mochawesome.html"
   },
   "author": "Finoa GmbH/Ankit-Laddha(https://github.com/ankit-Laddha/)",

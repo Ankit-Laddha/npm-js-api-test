@@ -3,7 +3,7 @@ const apiHelper = require("../../api-authentication");
 const ADDRESS_PATH = require("../../endpoints").address;
 
 describe("Test currency parameters for Address endpoint", () => {
-  it.only("request without address and single currency should be success", async () => {
+  it("request without address and single currency should be success", async () => {
     const currency = "BTC";
     const path = `${ADDRESS_PATH}?Currency=-${currency}`;
 

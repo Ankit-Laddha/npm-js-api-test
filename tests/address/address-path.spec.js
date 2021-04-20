@@ -1,5 +1,5 @@
 const expect = require("chai").expect;
-const apiHelper = require("../api-authentication");
+const apiHelper = require("../../api-authentication");
 const ADDRESS_PATH = require("../../endpoints").address;
 
 describe("Test address path parameter for Address endpoint", () => {
