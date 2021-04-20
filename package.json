@@ -1,0 +1,21 @@
+{
+  "name": "finoa-api-tester",
+  "version": "1.0.0",
+  "description": "Minimum example how to query the Finoa API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 5000 'tests/address/address-currency.spec.js' --reporter mochawesome || true",
+    "open:report": "open mochawesome-report/mochawesome.html"
+  },
+  "author": "Finoa GmbH/Ankit-Laddha(https://github.com/ankit-Laddha/)",
+  "license": "SEE LICENSE IN license.txt",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "crypto": "1.0.1",
+    "mocha": "^8.3.2",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "mochawesome": "^6.2.2"
+  }
+}

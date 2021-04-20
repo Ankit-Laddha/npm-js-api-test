@@ -1,0 +1,74 @@
+[
+  {
+    "Address": "msU3GmNmRWomR4Au3mGwxjTmbWSrM4Hnua",
+    "Balance": "0",
+    "Currency": "BTC",
+    "Info": "Default"
+  },
+  {
+    "Address": "b4614d5d02f49aa66bc3a7402a0b3a3bb85e95a4",
+    "Balance": "1",
+    "Currency": "ETH",
+    "Info": "Default"
+  },
+  {
+    "Address": "vFOTAWTTmcneQR2m4T0iDyKVTW9mII3zibqyZE",
+    "Balance": "0",
+    "Currency": "FLOW",
+    "Info": "Default"
+  },
+  {
+    "Address": "nLem4Xt0kJDjWLF4f2DYb8QcxSWDBUiyW1dt0E",
+    "Balance": "0",
+    "Currency": "FLOW",
+    "Info": "Default 1"
+  },
+  {
+    "Address": "mVoLW7CZv1yxIOdd1N7eaHWVdSXqGGydGvnVGH",
+    "Balance": "0",
+    "Currency": "FLOW",
+    "Info": "Default 2"
+  },
+  {
+    "Address": "ONovPztsb0EdtbwQHg6OdwSpB1pHIvmUpsgndC",
+    "Balance": "0",
+    "Currency": "FLOW",
+    "Info": "Default 3"
+  },
+  {
+    "Address": "w2RtmriLzWb7o0e5BhgZMzV9F8zJT0OCz0YUDk",
+    "Balance": "0",
+    "Currency": "FLOW",
+    "Info": "Default 4"
+  },
+  {
+    "Address": "9JLWfKayfceQQkVD775fSjEBWYsyoeoMrI0OHr",
+    "Balance": "0",
+    "Currency": "NEAR",
+    "Info": "Default"
+  },
+  {
+    "Address": "7h5c46LMLz7W5BbYcXyk8uKws1jtipE4AvpACy",
+    "Balance": "0",
+    "Currency": "NEAR",
+    "Info": "Default 1"
+  },
+  {
+    "Address": "VwAayxpRRbTcZQQc6ibsaeolZcgnd3mzviZvd1",
+    "Balance": "0",
+    "Currency": "NEAR",
+    "Info": "Default 2"
+  },
+  {
+    "Address": "sntQGDEaDtdz8ai0h1KuOLdIlnyCN5p5z5pvJQ",
+    "Balance": "0",
+    "Currency": "ENJ",
+    "Info": "Default"
+  },
+  {
+    "Address": "bx0FkzuGw8pGmIcG79bFEfitSREZ9Tiy7uNQ9i",
+    "Balance": "0",
+    "Currency": "ENJ",
+    "Info": "Default 1"
+  }
+]
