@@ -23,11 +23,10 @@
 
 #### How to execute
 
-* We will use npm commands to trigger our tests. Open the solution in any of code editor (VScode or IntelliJ)
+* We will use npm commands install dependency and to trigger our tests. Open the solution in any of code editor (VScode or IntelliJ)
 
    ```bash
-   cd api-tests
-   npm test 
+   npm i && npm test 
    ```
 
 #### Open Reports
