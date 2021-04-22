@@ -28,8 +28,8 @@ describe("Test address path parameter for Address endpoint", () => {
     });
 
     const options = await apiHelper.createOptions({
-      requestPath: path,
-      requestHeaders: ADDRESS_PATH,
+      requestPath: ADDRESS_PATH,
+      requestHeaders: headers,
     });
 
     const response = await apiHelper.sendRequest(options);

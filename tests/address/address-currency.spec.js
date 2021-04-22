@@ -5,7 +5,7 @@ const ADDRESS_PATH = require("../../endpoints").address;
 describe("Test currency parameters for Address endpoint", () => {
   it("request without address and single currency should be success", async () => {
     const currency = "BTC";
-    const path = `${ADDRESS_PATH}?Currency=-${currency}`;
+    const path = `${ADDRESS_PATH}?Currency=${currency}`;
 
     const headers = await apiHelper.createHeaders({
       requestPath: path,
