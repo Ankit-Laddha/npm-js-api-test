@@ -42,7 +42,7 @@
    ```bash
    npm run open:report  
    ```
-* Sample HTML report of the local run is attached [here](api-tests-html-report.png) <to-be-added>
+* Sample HTML report of the local run is attached [here](api-tests-html-report.png)
 
 
 #### Other Tasks
